@@ -1,2 +1,2 @@
-#!/bi/bin/bash
-mkdikdir /tmp
+#!/bin/bash
+mkdir /tmp
